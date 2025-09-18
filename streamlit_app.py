@@ -6,4 +6,4 @@ st.write(
 )
 
 x = st.slider('Get points by moving the slider!')
-st.write(x, ' points', x * x)
+st.write('You get ' x * x, ' points!')
